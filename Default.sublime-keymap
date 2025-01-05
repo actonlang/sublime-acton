@@ -1,0 +1,11 @@
+[
+    {
+        "keys": ["enter"],
+        "command": "insert_snippet",
+        "args": {"contents": "\n\t$0"},
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "source.acton" },
+            { "key": "preceding_text", "operator": "regex_contains", "operand": ":$" }
+        ]
+    }
+]

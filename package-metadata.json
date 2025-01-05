@@ -1,0 +1,10 @@
+{
+    "name": "Acton",
+    "version": "0.1.0",
+    "description": "Acton language support for Sublime Text",
+    "author": "Kristian Larsson",
+    "homepage": "https://github.com/actonlang/sublime-acton",
+    "dependencies": [],
+    "sublime_text": ">=4000",
+    "platforms": ["*"]
+}
